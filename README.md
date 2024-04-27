@@ -2,13 +2,12 @@
 
 ## Conhecimentos
 <div style="display: inline_block">
-    <img align="center" alt="java" height="50" width="50" src="https://devicons.dev.br/icons?icon=Java&size=50&theme=dark"/>
-    <img align="center" alt="spring" src="https://devicons.dev.br/icons?icon=Spring&size=50&theme=dark"/>
-    <img align="center" alt="mysql" src="https://devicons.dev.br/icons?icon=MySQL&size=50&theme=dark"/>
-    <img align="center" alt"html" src="https://devicons.dev.br/icons?icon=HTML&size=50&theme=dark"/>
-    <img align="center" alt"html" src="https://devicons.dev.br/icons?icon=CSS&size=50&theme=dark"/>
+    <img align="center" alt="java" height="50" width="50" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=Java&size=50&theme=dark"/>
+    <img align="center" alt="spring" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=Spring&size=50&theme=dark"/>
+    <img align="center" alt="mysql" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=MySQL&size=50&theme=dark"/>
+    <img align="center" alt"html" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=HTML&size=50&theme=dark"/>
+    <img align="center" alt"html" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=CSS&size=50&theme=dark"/>
 </div><br>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaMuralha23&hide_progress=true&theme=tokyonight)
 
@@ -25,3 +24,10 @@
 Olá! Eu sou Lorena, uma entusiasta da tecnologia apaixonada por programação e resolução de problemas. Atualmente, trabalho com foco na linguagem Java e estudo tecnologias como Spring Framework, JUnit, JaCoCo, Java Swing e JavaFX. Para o gerenciamento de dados, utilizo o SQL Server e ferramentas como o MySQL Workbench. No Front-End, tenho conhecimento em HTML5 e CSS. Estou constantemente em busca de desafios que me permitam aplicar e expandir meu conhecimento técnico.
 
 Vamos construir algo incrível?
+
+## Estudando no momento
+<div style="display: inline_block">
+    <img align="center" alt="react" height="50" width="50" style="margin-right: 10px;" src="https://devicons.dev.br/icons?icon=React&size=50&theme=dark"/>
+    <img align="center" alt="javascript" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=JavaScript&size=50&theme=dark"/>
+    <img align="center" alt="nodejs" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=NodeJS&size=50&theme=dark"/>
+</div><br><br>
