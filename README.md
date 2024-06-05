@@ -9,7 +9,15 @@
   
 <p align="center">
   <a href="https://devicons.dev.br/">
-    <img src="https://devicons.dev.br/icons?icon=Java,Spring,MySQL,HTML,CSS&size=50&theme=dark" />
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   </a>
 </p>
 
@@ -20,9 +28,9 @@ Vamos construir algo incrível?
 
 ## Estudando no momento
 <div style="display: inline_block" >
-    <img align="center" alt="react" height="50" width="50" style="margin-right: 10px;" src="https://devicons.dev.br/icons?icon=React&size=50&theme=dark"/>
-    <img align="center" alt="javascript" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=JavaScript&size=50&theme=dark"/>
-    <img align="center" alt="nodejs" style="margin-right: 10px;"  src="https://devicons.dev.br/icons?icon=NodeJS&size=50&theme=dark"/>
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ## Contatos
