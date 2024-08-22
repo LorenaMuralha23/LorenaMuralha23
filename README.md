@@ -24,13 +24,6 @@ Olá! Eu sou Lorena, uma entusiasta da tecnologia apaixonada por programação e
 
 Vamos construir algo incrível?
 
-## Estudando no momento
-<div style="display: inline_block" >
-      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-</div>
-
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-lorena-muralha-lima-093a13234/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialorenamuralhalima2301@gmail.com?subject=Conex%C3%A3o%20Profissional)
