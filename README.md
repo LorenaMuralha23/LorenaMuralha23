@@ -24,6 +24,9 @@ Olá! Eu sou Lorena, uma entusiasta da tecnologia apaixonada por programação e
 
 Vamos construir algo incrível?
 
+## Clique aqui para baixar meu currículo
+<a href="https://drive.google.com/file/d/1Bxk3PsfBmw_fBVXDmRPrMLO15O_6G5Bx/view?usp=drive_link" download="MLorena-Resume.pdf">Currículo</a>
+
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-lorena-muralha-lima-093a13234/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialorenamuralhalima2301@gmail.com?subject=Conex%C3%A3o%20Profissional)
